@@ -8,6 +8,7 @@
 
 - 👀 Tenho um forte interesse em explorar como a **IA**, Machine Learning e a matemática podem resolver problemas complexos.
 - 👯 Busco colaborar em projetos de tecnologia e desafios de programação.
+- Atualmente apenas programando como hobby.
 
 ---
 
