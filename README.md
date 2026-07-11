@@ -1,24 +1,28 @@
-<h1 align="center"> Oi, eu sou o @jonanthann! 👋 </h1>
+<h1 align="center"> Olá, eu sou o @jonanthann! 👋 </h1>
 
-<h3 align="center"> Apaixonado pela área de exatas, tecnologia e Inteligência Artificial. 🤖 </h3>
+<h3 align="center"> Desenvolvedor Freelancer | Automações e Workflows | Entusiasta em Machine Learning e IA. 🤖 </h3>
 
 <br>
 
 ## 👨‍💻 Sobre mim
 
-- 👀 Tenho um forte interesse em explorar como a **IA**, Machine Learning e a matemática podem resolver problemas complexos.
-- 👯 Busco colaborar em projetos de tecnologia e desafios de programação.
-- Atualmente apenas programando como hobby.
+- 💼 Atuo como **Desenvolvedor Freelancer**, construindo soluções sob medida e escaláveis.
+- ⚙️ Tenho foco em criar **automações** e otimizar **workflows** para simplificar processos e aumentar a eficiência.
+- 🧠 Sou um entusiasta em **Machine Learning e IA**, sempre explorando como aplicar essas tecnologias para resolver problemas práticos.
+- 🚀 Busco constantemente aprender novas ferramentas, linguagens e superar desafios através de código.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
+  <!-- Python, Java, JS, HTML, CSS e Ferramentas de automação -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Workflows/GitHub Actions" />
 </div>
 
 <br>
