@@ -1,14 +1,14 @@
 
-<h3 align="center"> Desenvolvedor Freelancer | Automações e Workflows | Entusiasta em IA 🤖 </h3>
+<h3 align="center"> Desenvolvedor Freelancer | Automações e Workflows | Entusiasta em IA </h3>
 
 <br>
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Atuo como **Desenvolvedor Freelancer**, construindo soluções sob medida e escaláveis.
-- ⚙️ Tenho foco em criar **automações** e otimizar **workflows** para simplificar processos e aumentar a eficiência.
-- 🧠 Sou um entusiasta em **Machine Learning e IA**, sempre explorando como aplicar essas tecnologias para resolver problemas práticos.
-- 🚀 Busco constantemente aprender novas ferramentas, linguagens e superar desafios através de código.
+-  Atuo como **Desenvolvedor Freelancer**, construindo soluções sob medida e escaláveis.
+-  Tenho foco em criar **automações** e otimizar **workflows** para simplificar processos e aumentar a eficiência.
+-  Sou um entusiasta em **Machine Learning e IA**, sempre explorando como aplicar essas tecnologias para resolver problemas práticos.
+-  Busco constantemente aprender novas ferramentas, linguagens e superar desafios através de código.
 
 ---
 
