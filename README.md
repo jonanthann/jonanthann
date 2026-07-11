@@ -1,4 +1,3 @@
-<h1 align="center"> Olá, eu sou o @jonanthann! 👋 </h1>
 
 <h3 align="center"> Desenvolvedor Freelancer | Automações e Workflows | Entusiasta em IA 🤖 </h3>
 
