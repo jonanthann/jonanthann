@@ -1,35 +1,7 @@
-<p align="center">
-  <img src="banner.svg" width="100%" alt="hi, i'm jonanthan 👋" />
-</p>
+### hi, i'm jonanthan
 
-<p align="center">
-  🐧 Debian user &nbsp;·&nbsp; 🐍 Python & automation &nbsp;·&nbsp; 🔧 reverse engineering hardware for fun
-</p>
+Debian user. Python and automation. Reverse engineering hardware for fun.
 
-<br />
+Currently working on [chione-display-linux](https://github.com/jonanthann/chione-display-linux): reverse-engineered driver that shows real CPU temperature and fan RPM on the Gamdias Chione E4 AIO display, on Linux and Windows.
 
-<h3 align="center">currently working on</h3>
-
-<p align="center">
-  <a href="https://github.com/jonanthann/chione-display-linux"><b>chione-display-linux</b></a><br />
-  shows your real CPU temperature on the Chione cooler display, natively on Linux
-</p>
-
-<br />
-
-<h3 align="center">stack</h3>
-
-<p align="center">
-  <img src="stack.svg" alt="Python, JavaScript, HTML, CSS, Shell, PowerShell" />
-</p>
-
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonanthann/jonanthann/output/profile-night-rainbow.svg" />
-    <img src="https://raw.githubusercontent.com/jonanthann/jonanthann/output/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
-  </picture>
-</p>
-
-<img src="footer.svg" width="100%" alt="" />
+`python` · `javascript` · `shell`
