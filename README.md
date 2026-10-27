@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Jonanthan Braz" width="100%">
+
 ### hi, i'm jonanthan
 
 Debian user. Python and automation. Reverse engineering hardware for fun.
